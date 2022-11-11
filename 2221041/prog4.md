@@ -14,11 +14,11 @@ return 0;
 }
 ```
 ```
-Output: A = 15
+**Output: A = 15
  B= 14
 A + B = 29 (Addition Operator)
 A - B = 1 (Subtraction  Operator)
 A * B = 210 (Multiplication Operator)
 A / B = 1 (Division Operator)
-A mod B = 1 (Remainder Operator)
+A mod B = 1 (Remainder Operator)**
 ```
